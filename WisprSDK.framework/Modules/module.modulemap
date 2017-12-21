@@ -1,0 +1,6 @@
+framework module WisprSDK {
+  umbrella header "WisprSDK.h"
+
+  export *
+  module * { export * }
+}
