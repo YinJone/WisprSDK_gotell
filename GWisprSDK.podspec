@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "GWisprSDK"
-  s.version = "1.0.1"
+  s.version = "1.0.2"
   s.summary      = "This is the Fon Wispr for iOS devices."
   s.homepage     = "https://github.com/YinJone/WPASDK_gotell"
   s.license      = "MIT"
